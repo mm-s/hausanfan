@@ -3,7 +3,7 @@
 Yet Another Webcam Trainer
 
 Hackathon Koding'2014
-[![Koding Hackathon](/images/badge.png?raw=true "Koding Hackathon")](https://koding.com/Hackathon)
+[![Koding Hackathon](https://github.com/mm-s/hackathon.submit/blob/master/images/badge.png "Koding Hackathon")](https://koding.com/Hackathon)
 
 ## Description
 
