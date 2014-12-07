@@ -1,5 +1,4 @@
 hausanfan
 =========
-Yet Another Video Phone
-
+Yet Another Webcam Trainer
 Hackathon Koding'2014
